@@ -1,3 +1,3 @@
-module github.com/denouche/goawx
+module github.com/roondar/goawx
 
 go 1.14
