@@ -10,7 +10,7 @@ This SDK has been developed against AWX `14.0.0`.
 ## Installing
 
 ```
-go get -u github.com/denouche/goawx
+go get -u github.com/roondar/goawx
 ```
 
 ## Example
@@ -37,18 +37,18 @@ func main() {
 }
 ```
 
-More examples can be found at [here](https://github.com/denouche/goawx/tree/master/examples).
+More examples can be found at [here](https://github.com/roondar/goawx/tree/master/examples).
 
 ## Roadmap
 
-goawx is still in development, and its roadmap could be found at [here](https://github.com/denouche/goawx/blob/master/ROADMAP.md).
+goawx is still in development, and its roadmap could be found at [here](https://github.com/roondar/goawx/blob/master/ROADMAP.md).
 
 ## Contribute
 
 There are many ways to contribute to awx-go.
 
-* Submit bugs via [Github issues](https://github.com/denouche/goawx/issues);
-* Submit a [pull request](https://github.com/denouche/goawx/pulls) for fixes or features;
+* Submit bugs via [Github issues](https://github.com/roondar/goawx/issues);
+* Submit a [pull request](https://github.com/roondar/goawx/pulls) for fixes or features;
 
 ### Local Run
 
