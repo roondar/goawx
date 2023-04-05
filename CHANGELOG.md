@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/roondar/goawx/compare/v1.0.0...v1.1.0) (2023-04-05)
+
+
+### Features
+
+* Use roondar in links ([35199ce](https://github.com/roondar/goawx/commit/35199ce2d80d95fb2e0760fd950f85d0ad7b6b50))
+
 # 1.0.0 (2023-04-05)
 
 
