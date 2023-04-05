@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/roondar/goawx/compare/v1.1.0...v1.1.1) (2023-04-05)
+
+
+### Bug Fixes
+
+* Use roondar as name ([6634ecc](https://github.com/roondar/goawx/commit/6634ecc36ba5a40fe0037df93dd843ac720dabdc))
+
 # [1.1.0](https://github.com/roondar/goawx/compare/v1.0.0...v1.1.0) (2023-04-05)
 
 
