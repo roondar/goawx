@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/roondar/goawx/compare/v1.1.1...v1.1.2) (2023-04-14)
+
+
+### Bug Fixes
+
+* import schedule type with extra_data ([c82a275](https://github.com/roondar/goawx/commit/c82a27563ddc21d0d02530462a10a6ada1c969e3))
+
 ## [1.1.1](https://github.com/roondar/goawx/compare/v1.1.0...v1.1.1) (2023-04-05)
 
 
