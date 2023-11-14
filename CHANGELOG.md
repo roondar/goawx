@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/veepee-oss/goawx/compare/v1.1.2...v1.2.0) (2023-11-14)
+
+
+### Features
+
+* add support to job_slice_count ([e25ebc2](https://github.com/veepee-oss/goawx/commit/e25ebc2bda36ac3ffa7724cd068810b23075aeda))
+
 ## [1.1.2](https://github.com/roondar/goawx/compare/v1.1.1...v1.1.2) (2023-04-14)
 
 
