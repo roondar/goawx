@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/veepee-oss/goawx/compare/v1.2.0...v1.2.1) (2023-11-14)
+
+
+### Bug Fixes
+
+* go module name ([0d17fac](https://github.com/veepee-oss/goawx/commit/0d17fac1be2ac44c5ee2a2f02c3dadc80cb5887a))
+
 # [1.2.0](https://github.com/veepee-oss/goawx/compare/v1.1.2...v1.2.0) (2023-11-14)
 
 
